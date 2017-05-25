@@ -1,0 +1,2 @@
+C:\Users\s1697297\Source\Repos\CF_2017_Bd\La_Biblia_C\Test\Test\bin\Debug\Test.exe.config
+C:\Users\s1697297\Source\Repos\Test\La_Biblia_C\Test\Test\bin\Debug\Test.exe.config
