@@ -12,6 +12,7 @@ namespace Test
         {
             Console.WriteLine("Hola");
             Console.WriteLine("Amigo");
+            Console.WriteLine("Amigo 2");
             Console.Read();
         }
     }
